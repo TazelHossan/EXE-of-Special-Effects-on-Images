@@ -267,3 +267,12 @@ FAQ
 Q: I can not access the home page?
 
 A: You enter the User name "EMP0000" and Password "admin".
+
+![.https://github.com/TazelHossan/EXE-of-Special-Effects-on-Images/blob/main/README.md](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
+
+
+Feel free to submit a [pull request](https://github.com/TazelHossan/EXE-of-Special-Effects-on-Images/pulls) with your suggestions of this repo.
+
+Download This Repo
+------------------
+Download the repo from the github at ([This Link](https://github.com/TazelHossan/EXE-of-Special-Effects-on-Images)).
