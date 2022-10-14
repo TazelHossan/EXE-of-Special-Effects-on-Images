@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/TazelHossan/Digital-Image-Processing/blob/main/Images/thumb.jpg" height="300" />
+  <img src="https://github.com/TazelHossan/EXE-of-Special-Effects-on-Images/blob/main/Images/thumb.gif" height="500" />
 </p>
 
 ## About
