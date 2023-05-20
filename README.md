@@ -1,4 +1,4 @@
-<h2 align="center">Project Name: A special effect software of images using Some image Processing Alogorithms </h2>
+<h2 align="center">Project Name: A special effect software of images using Some image Processing Algorithms </h2>
 <h3 align="center">Written in Python.</h3>
 <p align="center">
   <a href="https://github.com/JU-CSE-27/swe-wiki" target="_blank" rel="noopener noreferrer">
